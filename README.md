@@ -6,7 +6,7 @@ This repository contains my data science projects completed as part of
 ## 🚀 Projects
 - Coders of Delhi – Data Analysis Project
 - Coders of Bangalore – Data Analysis Project
-- End-to-End Data Science Project
+- 
 
 ## 🛠 Tools & Skills
 - Python
